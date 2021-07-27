@@ -1,5 +1,7 @@
 import 'package:json_annotation/json_annotation.dart';
 
+part 'model.g.dart';
+
 @JsonSerializable()
 class PostcodeModel {
   final String postcode;
