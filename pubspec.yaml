@@ -1,6 +1,6 @@
 name: flutter_daum_postcode
 description: This package can search for addresses in Korea using Daum Postcode Service.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/che5ya/flutter_daum_postcode
 
 environment:
